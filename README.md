@@ -6,6 +6,6 @@
 
 학습 주제별로 브랜치를 나눠 수업 진행따라갑니다.
 
-1. 자바스크립트 코어 브랜치[바로가기](https://github.com/1101x/core_javascript/tree/01.core)
+1. 자바스크립트 코어 브랜치 [바로가기](https://github.com/1101x/core_javascript/tree/01.core)
 
-2. 자바스크립트 돔 프랜치
+2. 자바스크립트 돔 브랜치
