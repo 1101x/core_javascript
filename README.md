@@ -9,3 +9,8 @@
 1. 자바스크립트 코어 브랜치 [바로가기](https://github.com/1101x/core_javascript/tree/01.core)
 
 2. 자바스크립트 돔 브랜치
+
+### Basic
+[X] Code Structure
+[ ] Code Structure
+[ ] Code Structure
